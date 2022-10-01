@@ -1,0 +1,4 @@
+SELECT name
+FROM Pokemon
+WHERE id BETWEEN 10 AND 99
+ORDER BY name;
